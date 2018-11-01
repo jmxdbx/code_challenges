@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/bigger-is-greater
-Author: Joel Berry
 """
 
 def lex(st):
