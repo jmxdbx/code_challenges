@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/the-grid-search
-Author: Joel Berry
 """
 
 def grid(G, P):
