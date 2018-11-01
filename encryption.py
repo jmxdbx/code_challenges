@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/encryption
-Author: Joel Berry
 """
 
 import math
