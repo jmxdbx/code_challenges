@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/new-year-chaos
-Author: Joel Berry
 """
 def merge_sort(q):
     if len(q) < 2:
