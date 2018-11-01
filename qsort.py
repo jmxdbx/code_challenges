@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/quicksort3
-Author: Joel Berry
 """
 
 def partition(arr, p, r):
