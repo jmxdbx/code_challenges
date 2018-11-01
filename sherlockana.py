@@ -1,6 +1,5 @@
 """
 Solution to hackerrank.com/challenges/sherlock-and-anagrams
-Author: Joel Berry
 """
 
 n = int(input())
